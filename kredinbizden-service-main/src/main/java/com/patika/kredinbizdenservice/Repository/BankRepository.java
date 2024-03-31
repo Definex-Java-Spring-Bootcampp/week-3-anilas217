@@ -1,0 +1,4 @@
+package com.patika.kredinbizdenservice.Repository;
+
+public class BankRepository {
+}
